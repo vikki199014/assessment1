@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+vik,Chrome 125.0.0.0,,,14-06-2024 12:57:26,14-06-2024 12:58:01,34.217s,PASSED
+,,,,,,,
+Test Cases/vikki1/redbus,Chrome 125.0.0.0,,,14-06-2024 12:57:27,14-06-2024 12:58:01,34.004s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,14-06-2024 12:57:27,14-06-2024 12:57:29,2.145s,PASSED
+"navigateToUrl(""https://collegedunia.com/"")",Chrome 125.0.0.0,,,14-06-2024 12:57:29,14-06-2024 12:57:40,10.928s,PASSED
+"click(findTestObject(""Object Repository/Page_Collegedunia Top Colleges, Universitie_16e77f/h3_Engineering""))",Chrome 125.0.0.0,,,14-06-2024 12:57:40,14-06-2024 12:57:43,2.385s,PASSED
+"click(findTestObject(""Object Repository/Page_Collegedunia Top Colleges, Universitie_16e77f/button_BEB.Tech""))",Chrome 125.0.0.0,,,14-06-2024 12:57:43,14-06-2024 12:57:45,1.982s,PASSED
+"click(findTestObject(""Object Repository/Page_Collegedunia Top Colleges, Universitie_16e77f/button_MBAPGDM""))",Chrome 125.0.0.0,,,14-06-2024 12:57:45,14-06-2024 12:57:48,3.013s,PASSED
+"click(findTestObject(""Object Repository/Page_Collegedunia Top Colleges, Universitie_16e77f/button_MBBS""))",Chrome 125.0.0.0,,,14-06-2024 12:57:48,14-06-2024 12:57:50,2.018s,PASSED
+"click(findTestObject(""Object Repository/Page_Collegedunia Top Colleges, Universitie_16e77f/button_MEM.Tech""))",Chrome 125.0.0.0,,,14-06-2024 12:57:50,14-06-2024 12:57:53,2.930s,PASSED
+"click(findTestObject(""Object Repository/Page_Collegedunia Top Colleges, Universitie_16e77f/button_B.Sc""))",Chrome 125.0.0.0,,,14-06-2024 12:57:53,14-06-2024 12:57:55,2.070s,PASSED
+"click(findTestObject(""Object Repository/Page_Collegedunia Top Colleges, Universitie_16e77f/button_BBABMS""))",Chrome 125.0.0.0,,,14-06-2024 12:57:55,14-06-2024 12:57:57,1.927s,PASSED
+"click(findTestObject(""Object Repository/Page_Collegedunia Top Colleges, Universitie_16e77f/button_B.Sc (Nursing)""))",Chrome 125.0.0.0,,,14-06-2024 12:57:57,14-06-2024 12:58:01,4.056s,PASSED
